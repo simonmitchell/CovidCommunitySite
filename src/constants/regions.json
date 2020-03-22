@@ -1,0 +1,30 @@
+[
+	{
+		"name": {
+			"cy": "Gogledd",
+			"en": "North"
+		},
+		"id": "north"
+	},
+	{
+		"name": {
+			"cy": "Gogledd Canol",
+			"en": "North-Mid"
+		},
+		"id": "north-mid"
+	},
+	{
+		"name": {
+			"cy": "Canol De",
+			"en": "Mid-South"
+		},
+		"id": "south-mid"
+	},
+	{
+		"name": {
+			"cy": "De",
+			"en": "South"
+		},
+		"id": "south"
+	}
+]
