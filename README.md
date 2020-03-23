@@ -7,15 +7,37 @@ The website consists of one main page, which allows users to filter by area and 
 This website is build using React.js, but only a very basic understanding of this is needed, as no real tweaks are necessary to deploy for your usage.
 
 ## Getting Started
-### Setup Required
 
-You must have node installed to get this website running. The version I am running is: `v10.15.0`. A quick google should walk you through the setup you need to get this installed for your Operating System.
+This website requires Node in order to run. There are two ways of achieving this with your local setup.
+
+Once you have carried out either of the below methods, you can visit `http://localhost:3000` in your web browser to view the site.
+
+Any changes will be re-compiled whenever a file is saved, and your browser should display these automatically via "hot reload".
+
+### Using Node on your host machine
+
+**Requirements**
+
+* [NodeJS](https://nodejs.org/) / [nvm](https://github.com/nvm-sh/nvm/blob/master/README.md)
+* Built and tested using  `v10.15.0`
 
 To get started you will then need to run:
 
 ```
 npm install
-npm run
+npm run start
+```
+
+### Using Docker Compose
+
+**Requirements**
+
+* [Docker](https://docs.docker.com/install/) / [Docker Compose](https://docs.docker.com/compose/)
+
+To get started you will then need to run:
+
+```
+docker-compose up
 ```
 
 ## Customising
