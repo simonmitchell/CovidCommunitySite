@@ -16,6 +16,50 @@ i18n
     .use(initReactI18next) // passes i18n down to react-i18next
     .init({
         resources: {
+        	cy: {
+                translation: {
+                	category: {
+	            		all: "Popeth",
+	            		services: "Gwasanaethau",
+	            		food: "Bwyd",
+	            		groceries: "Bwydydd",
+	            		community: "Cymuned",
+	            		healthcare: "Gofal Iechyd",
+	            		foodbank: "Banc Bwyd",
+	            		laundry: "Golchdy",
+	            		transport: "Trafnidiaeth"
+	            	},
+                	regions: {
+                		all: "Popeth"
+                	},
+                	subCategory: {
+                		community_support: "Cefnogaeth Gymunedol",
+                		community_information: "Gwybodaeth Gymunedol",
+                		fruit_and_veg: "Ffrwythau a Llysiau",
+                		meals_on_wheels: "Pryd ar Glud",
+                		restaurant: "Bwyty",
+                		cafe: "Caffi",
+                		bakery: "Pobydd",
+                		butchers: "Cigyddion",
+                		fish_and_chips: "Pysgod a Sglodion",
+                		fishmonger: "Pysgod",
+                		laundry: "Golchdy",
+                		shop: "Siop",
+                		foodbank: "Banc Bwyd",
+                		hotel: "Gwesty",
+                		tv: "Teledu",
+                		milkman: "Dyn Llaeth",
+                		pharmacist: "Fferyllydd",
+                		taxi: "Tasci"
+                	},
+                    home: {
+                    	searchPlaceholder: "Chwilio yn ôl enw, tref, neu gategori",
+                        title: "Adnoddau Ceredigion",
+                        updated: "Wedi'i ddiweddaru ddiwethaf: {{time_ago}}",
+                        noResults: "Dim canlyniadau. Trio chwilo am rhywbeth arall"
+                    }
+                }
+            },
             en: {
                 translation: {
                 	category: {
@@ -83,7 +127,7 @@ i18n
                         title: "Home",
                         links: "Links",
                         city: "City (The city, town, or areas you service)",
-                        instructions: "Please fill in the below form and send the text at the bottom to: ",
+                        instructions: "Please fill in the below form and send the text at the bottom to: simonmitchell.dev@gmail.com",
                         description: "Description",
                         name: "Name",
                         category: "Category (Not displayed, but used for filtering)",
