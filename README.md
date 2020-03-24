@@ -68,6 +68,10 @@ Please edit the CNAME file in `public/CNAME` to point at your domain name
 
 I host my version of the website using GitHub pages, if you run `npm run deploy` this is setup to automatically deploy to a `gh-pages` branch.
 
+**IMPORTANT** If you are hosting on `gh-pages` make sure to change the `homepage` in `package.json` to point at the domain for your site.
+
+Information on how to setup GitHub pages to use a custom domain can be found [here](https://help.github.com/en/github/working-with-github-pages/managing-a-custom-domain-for-your-github-pages-site)
+
 ### Other Options
 
 There are many other options out there for free hosting, I have been suggested by colleagues to use [netlify](https://app.netlify.com/drop) which apparently is basically drag-and-drop!
