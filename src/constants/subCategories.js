@@ -1,6 +1,7 @@
 const subCategories = [
 	"community_support", 
 	"community_information", 
+	"deli",
 	"fruit_and_veg", 
 	"meals_on_wheels", 
 	"restaurant", 

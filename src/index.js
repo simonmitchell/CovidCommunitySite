@@ -79,6 +79,7 @@ i18n
                 	subCategory: {
                 		community_support: "Community Support",
                 		community_information: "Community Information",
+                        deli: "Deli",
                 		fruit_and_veg: "Fruit & Veg",
                 		meals_on_wheels: "Meals on Wheels",
                 		restaurant: "Restaurant",
