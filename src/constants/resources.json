@@ -239,33 +239,6 @@
       "number": "01545 570848"
     },
     {
-      "address": {
-        "name": "Harbourmaster",
-        "street": "1 Quay Parade",
-        "city": "Aberaeron",
-        "postcode": "SA46 0AD"
-      },
-      "category": "food",
-      "subCategory": "restaurant",
-      "council": {
-        "cy": "Cyngor Tref Aberaeron",
-        "en": "Aberaeron Town Council"
-      },
-      "councillors": [
-        "Elizabeth Evans"
-      ],
-      "description": {
-        "cy": "Dosbarthu Bwyd.\n\nBaking 20 loaves of bread this Saturday for locals to come and buy.\n\nTake away meals to those living in Aberaeron – Lunch and Dinner.\n\nAlso DVD players and DVDS offered to those in isolation",
-        "en": "Meal Delivery.\n\nBaking 20 loaves of bread this Saturday for locals to come and buy.\n\nTake away meals to those living in Aberaeron – Lunch and Dinner.\n\nAlso DVD players and DVDS offered to those in isolation"
-      },
-      "name": "Harbourmaster",
-      "organisers": [],
-      "regionId": "south-mid",
-      "city": "Aberaeron",
-      "links": [],
-      "number": "01545 570755"
-    },
-    {
       "category": "food",
       "subCategory": "butchers",
       "description": {
@@ -1047,7 +1020,7 @@
       "category": "healthcare",
       "description": {
         "cy": "Dosbarthu Prescripsiwns\n\nBronant, Lleddrod, Penuwch - Dydd Iau\n\nPontrhydfendigaid - Dydd Mercher\n\nnPontrhydygroes - Dydd Gwener\n\nTregaron - Dydd Mawrth",
-        "en": "Prescription Delivery\n\nBronant, Lleddrod, Penuwch - Thursday\n\nnPontrhydfendigaid - Wednesday\n\nPontrhydygroes - Friday\n\nTregaron - Tuesday"
+        "en": "Prescription Delivery\n\nBronant, Lleddrod, Penuwch - Thursday\n\nPontrhydfendigaid - Wednesday\n\nPontrhydygroes - Friday\n\nTregaron - Tuesday"
       },
       "subCategory": "pharmacist",
       "name": "Huw Evans Ltd",
